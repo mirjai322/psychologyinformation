@@ -4,6 +4,10 @@
   color: white;
 }
 
+a{
+  text-decoration: none;
+}
+
 .top{
   display: flex;
   flex-direction: row;
@@ -56,6 +60,7 @@
 .stuff{
   display: flex;
   flex-direction: row;
+  padding-top: 5px;
   padding: 10px 10px;
   justify-content: center;
   align-items: center;
